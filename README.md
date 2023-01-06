@@ -21,7 +21,7 @@ Automatically create new builds for a Unity app whenever code changes on GitHub.
 
 ### Step 1: GitHub
 
-Commit code to GitHub Repo https://github.com/TobiahZ/DumbGame
+Commit code to GitHub Repo:https://github.com/Hassoun00/SAVVY-GAME-
 
 ### Step 2: Jenkins on  IOS , Android and Windows.
 
