@@ -43,4 +43,4 @@ The AppVeyor scripts do the following:
 - Verify best practises using 'PSScriptAnalyzer'
 - Update the version in the manifest file
 - Publish the module to the powershell gallery
-- Checkin updated manifest file to github
+- Checkin updated manifest file to github 
